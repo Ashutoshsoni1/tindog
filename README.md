@@ -1,2 +1,1 @@
-# tindog
-Dog dating landing page
+TinDog Starting Files
